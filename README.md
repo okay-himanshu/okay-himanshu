@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu-0981
 - 👀 I’m interested in creating new things :)
-- 🌱 I’m a web devloper(react) currently learning app devlopment(react-native)
+- 🌱 I’m a web devloper(react) currently learning app development(react-native)
 - 📫 twitter - https://twitter.com/marvinn0001
 
 <!---
